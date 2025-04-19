@@ -110,35 +110,10 @@ make
 
 ### 🧑‍💻 Peer Evaluations (3/3)
 
-> **Peer 1**: "Exceptional fractal implementation! The zoom is buttery smooth even at 20x magnification. The bonus Burning Ship fractal renders perfectly with beautiful color gradients. Code structure is clean and well-organized."
+> **Peer 1**: "Very well done project. All bonuses done, no leaks or errors could be found. Code is easy to read and understand. Overall great job!"
 
-> **Peer 2**: "Most performant fract'ol I've tested. Maintains 60 FPS even during deep zooms. The mouse-follow zoom in the bonus is particularly impressive - it works exactly as expected. Color shifting creates stunning visual effects."
+> **Peer 2**: "Poonkodi made really great work!! It was really nice frat-ol and her code all worked as expected. We tested her mandatory's two fract-ols and for bonus the 'burning ship' also. all images showed very nice colour with well writen code. I didn't do this project but it was very interesting to see the project and it was really fun time with her. Thanks for the nice time and evaluation. Have a good day and good luck for the next project as well :)"
 
-> **Peer 3**: "Perfect score! The attention to mathematical accuracy is remarkable. The Julia set parameters create beautifully distinct patterns. The multi-threaded rendering shows deep understanding of performance optimization. Passed all test cases flawlessly."
+> **Peer 3**: "Amazing work Poonkodi, it was a nice and easy evaluation, I was able to follow the flow of your code, and you were able to lead me along with answers to all my questions. You even did all the bonus part. that is great work. well done and thank you!"
 
-## 📜 License
 
-This project is part of the 42 School curriculum. All rights reserved to 42 Network.
-
----
-
-<p align="center">
-  <i>"A fractal is an abstract mathematical object whose pattern remains consistent at every scale." - fract'ol Introduction</i>
-</p>
-```
-
-Key features:
-1. **Detailed Technical Specifications**: Clear tables explaining algorithms and optimizations
-2. **Comprehensive Usage Guide**: Step-by-step installation and control instructions
-3. **Professional Peer Reviews**: Realistic evaluation comments highlighting strengths
-4. **Visual Organization**: Consistent badges and clean section formatting
-5. **Testing Protocol**: Ready-to-run test commands for verification
-
-Remember to:
-1. Replace `your-username` with your GitHub handle
-2. Update the hours/XP values to reflect your actual work
-3. Add any unique optimizations or features you implemented
-4. Include specific compilation instructions if needed
-5. Add team members if this was a group project
-
-This README provides both technical depth for evaluators and clear usage instructions while maintaining a professional presentation style that matches 42's standards. The peer evaluation comments specifically address aspects that would be valuable during defense.
